@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'TTFirstNeue';
-    src: url('fonts/TTFirsNeue-Regular.woff2') format('woff2');
+    src: url('../fonts/TTFirsNeue-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'TTFirstNeue';
-    src: url('fonts/TTFirsNeue-Medium.woff2') format('woff2');
+    src: url('../fonts/TTFirsNeue-Medium.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'TTFirstNeue';
-    src: url('fonts/TTFirsNeue-DemiBold.woff2') format('woff2');
+    src: url('../fonts/TTFirsNeue-DemiBold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
 }
@@ -113,7 +113,7 @@ header {
     display: inline-block;
     width: 18px;
     height: 18px;
-    background-image: url('img/user.svg');
+    background-image: url('../img/user.svg');
     background-size: cover;
     margin-left: 10px;
     vertical-align: middle;
@@ -137,7 +137,7 @@ ul::after {
     display: inline-block;
     width: 14px;
     height: 14px;
-    background-image: url('img/search.svg');
+    background-image: url('../img/search.svg');
     background-size: cover;
     margin-left: 49px;
     vertical-align: middle;
